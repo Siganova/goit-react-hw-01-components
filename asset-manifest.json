@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Siganova/goit-react-hw-01-components/static/css/main.7c97bab2.css",
-    "main.js": "/Siganova/goit-react-hw-01-components/static/js/main.e4fb514c.js",
-    "index.html": "/Siganova/goit-react-hw-01-components/index.html",
-    "main.7c97bab2.css.map": "/Siganova/goit-react-hw-01-components/static/css/main.7c97bab2.css.map",
-    "main.e4fb514c.js.map": "/Siganova/goit-react-hw-01-components/static/js/main.e4fb514c.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.7c97bab2.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.e6be98be.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.7c97bab2.css.map": "/goit-react-hw-01-components/static/css/main.7c97bab2.css.map",
+    "main.e6be98be.js.map": "/goit-react-hw-01-components/static/js/main.e6be98be.js.map"
   },
   "entrypoints": [
     "static/css/main.7c97bab2.css",
-    "static/js/main.e4fb514c.js"
+    "static/js/main.e6be98be.js"
   ]
 }
